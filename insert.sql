@@ -9,11 +9,11 @@ VALUES("HTML"),("CSS"),("JavaScript"),("ReactJS"),("NodeJs");
  
 -- mentors
 INSERT INTO mentors(mentorname,mentoremail) 
-VALUES ("Ajith","ajithk@gmail.com"),("Pandian","pand007@gmail.com"),("Vijay","vijayT@gmail.com"),("Surya","surya@gmail.com"),("Rajini","Rajiniss@gmail.com");
+VALUES ("Ratha","Ratha123@gmail.com"),("Meena","menna456@gmail.com"),("Antony","antony01@gmail.com"),("priya","priya23@gmail.com"),("Suba","suba10@gmail.com");
 
 
 -- users
-INSERT INTO users(username,useremail,mentorid) VALUES("Sathish","Sathish@gmail.com",2),("Kumar","Kumar27@gmail.com",1),("Anikh","Anik24@gmail.com",5),("Shiva","shiva111@gmail.com",3),("Athira","athirask@gmail.com",4);
+INSERT INTO users(username,useremail,mentorid) VALUES("Arun","arun23@gmail.com",2),("Deepa","deepa27@gmail.com",1),("Rajesh","rajesh35@gmail.com",5),("Siva","siva41@gmail.com",3),("karthi","karthi56@gmail.com",4);
 
 
 -- codekata
